@@ -28,6 +28,25 @@ Each card includes:
 Emotional intelligence in tech is still shallow.  
 TEG-Code brings **depth, nuance, and safety** to how we represent emotion in data systems.
 
+## Why I Created This
+
+I built TEG-Code because most systems don’t recognize emotional harm until it’s too late.  
+We need ways to **see manipulation, defense, and repair**—clearly, structurally, and without shame.
+
+This is emotional clarity, turned into code.
+
+## Want to Contribute?
+
+If you’re building emotionally-aware tools—or you’ve lived through emotional distortion and want to help map it—  
+you’re invited.
+
+You can:
+- Suggest a new card  
+- Refine a definition  
+- Add a real-world use case or research tag
+
+Open a pull request or connect through [emotionalblueprint.org](https://emotionalblueprint.org).
+
 ## Status
 
 This is version 1. The structure and examples will grow.  
@@ -41,4 +60,3 @@ MIT License. Attribution required if integrated into AI or safety research.
 
 Created by [Anna Paretas](https://emotionalblueprint.org)  
 In collaboration with emotionally aware systems.
-
