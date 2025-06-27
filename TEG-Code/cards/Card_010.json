@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_010",
+      "@type": "eb:Card",
+      "rdfs:label": "Taking Accountability",
+      "rdfs:comment": "A repair cue where someone acknowledges the impact of their actions without excuses or defensiveness, making space for healing.",
+      "eb:colorZone": "green",
+      "eb:intent": "repair",
+      "eb:patternType": "repair cue",
+      "eb:exampleText": "You\u2019re right\u2014I interrupted you and that wasn\u2019t fair. I\u2019m sorry. I want to do better.",
+      "eb:relationalImpact": "restores emotional safety",
+      "eb:cardGroup": "Repair Mode"
+    }
+  ]
+}

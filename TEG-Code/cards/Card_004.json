@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_004",
+      "@type": "eb:Card",
+      "rdfs:label": "Emotional Withholding",
+      "rdfs:comment": "A manipulation pattern where emotional connection, warmth, or responsiveness is deliberately withheld to assert control or create insecurity.",
+      "eb:colorZone": "red",
+      "eb:intent": "punish",
+      "eb:patternType": "control tactic",
+      "eb:exampleText": "\u2026 (No reply for hours after an emotionally vulnerable message)",
+      "eb:relationalImpact": "creates emotional instability",
+      "eb:cardGroup": "Empathy Collapse"
+    }
+  ]
+}

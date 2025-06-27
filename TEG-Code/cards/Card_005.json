@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_005",
+      "@type": "eb:Card",
+      "rdfs:label": "Love Bombing",
+      "rdfs:comment": "A control tactic where someone floods the other with affection or praise to quickly build trust and dependency before shifting into manipulation or withdrawal.",
+      "eb:colorZone": "red",
+      "eb:intent": "gain power",
+      "eb:patternType": "control tactic",
+      "eb:exampleText": "You're the most incredible person I\u2019ve ever met. I feel like I\u2019ve known you forever. I want to be with you every second.",
+      "eb:relationalImpact": "creates emotional confusion",
+      "eb:cardGroup": "Empathy Collapse"
+    }
+  ]
+}

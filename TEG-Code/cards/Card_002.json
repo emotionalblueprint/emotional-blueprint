@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_002",
+      "@type": "eb:Card",
+      "rdfs:label": "Guilt-Tripping",
+      "rdfs:comment": "A manipulation tactic that uses emotional pressure to make someone feel responsible for your discomfort or unmet needs.",
+      "eb:colorZone": "red",
+      "eb:intent": "control",
+      "eb:patternType": "control tactic",
+      "eb:exampleText": "Wow... I guess I just don\u2019t matter to you anymore. It\u2019s fine. I\u2019ll just be here. Alone.",
+      "eb:relationalImpact": "erodes trust",
+      "eb:cardGroup": "Empathy Collapse"
+    }
+  ]
+}

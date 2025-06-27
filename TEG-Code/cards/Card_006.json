@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_006",
+      "@type": "eb:Card",
+      "rdfs:label": "Shutting Down to Avoid Conflict",
+      "rdfs:comment": "A nervous system survival response where someone emotionally withdraws or becomes unresponsive in high-stress interactions, usually to avoid escalation or emotional harm.",
+      "eb:colorZone": "orange",
+      "eb:intent": "protect",
+      "eb:patternType": "survival response",
+      "eb:exampleText": "\u2026 (Not replying or making eye contact during an argument, not because of anger but overwhelm)",
+      "eb:relationalImpact": "blocks communication",
+      "eb:cardGroup": "Defense Mode"
+    }
+  ]
+}

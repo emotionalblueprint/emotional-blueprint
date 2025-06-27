@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_009",
+      "@type": "eb:Card",
+      "rdfs:label": "Naming the Pattern Gently",
+      "rdfs:comment": "A repair cue that calmly names a behavior or dynamic without accusation, creating space for awareness and connection.",
+      "eb:colorZone": "green",
+      "eb:intent": "repair",
+      "eb:patternType": "repair cue",
+      "eb:exampleText": "I notice that when we talk about this, my concerns sometimes feel dismissed\u2014can we slow down and explore what might be happening for both of us?",
+      "eb:relationalImpact": "builds awareness and trust",
+      "eb:cardGroup": "Repair Mode"
+    }
+  ]
+}

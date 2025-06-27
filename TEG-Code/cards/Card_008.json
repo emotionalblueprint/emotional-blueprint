@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_008",
+      "@type": "eb:Card",
+      "rdfs:label": "Hyper-Vigilance in Conversations",
+      "rdfs:comment": "A nervous system survival response where someone scans for subtle shifts in tone or language, often interpreting neutral cues as signs of danger or disapproval.",
+      "eb:colorZone": "orange",
+      "eb:intent": "protect",
+      "eb:patternType": "survival response",
+      "eb:exampleText": "Wait\u2014why did you say it *like that*? Are you mad at me?",
+      "eb:relationalImpact": "increases tension, reduces safety",
+      "eb:cardGroup": "Defense Mode"
+    }
+  ]
+}

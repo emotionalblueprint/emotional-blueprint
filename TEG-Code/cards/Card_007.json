@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_007",
+      "@type": "eb:Card",
+      "rdfs:label": "Over-Apologizing",
+      "rdfs:comment": "A survival response where someone apologizes excessively, often for things outside their control, to avoid conflict or rejection.",
+      "eb:colorZone": "orange",
+      "eb:intent": "protect",
+      "eb:patternType": "survival response",
+      "eb:exampleText": "I\u2019m sorry\u2014I didn\u2019t mean it. I\u2019m really sorry. I didn\u2019t want to upset you. Please don\u2019t be mad.",
+      "eb:relationalImpact": "reduces personal agency",
+      "eb:cardGroup": "Defense Mode"
+    }
+  ]
+}

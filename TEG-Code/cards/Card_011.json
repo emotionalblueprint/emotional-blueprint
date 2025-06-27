@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_011",
+      "@type": "eb:Card",
+      "rdfs:label": "Asking: \u201cWhat Do You Need From Me Right Now?\u201d",
+      "rdfs:comment": "A repair cue that invites the other person to name their need, offering co-regulation and connection without assuming or controlling.",
+      "eb:colorZone": "green",
+      "eb:intent": "connect",
+      "eb:patternType": "repair cue",
+      "eb:exampleText": "I want to be here for you. What do you need from me right now?",
+      "eb:relationalImpact": "builds trust and co-regulation",
+      "eb:cardGroup": "Repair Mode"
+    }
+  ]
+}

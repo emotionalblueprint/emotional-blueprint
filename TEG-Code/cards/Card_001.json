@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_001",
+      "@type": "eb:Card",
+      "rdfs:label": "Dagger-Text",
+      "rdfs:comment": "A message that sounds polite on the surface but carries passive-aggressive blame, emotional venom, or control underneath.",
+      "eb:colorZone": "red",
+      "eb:intent": "control",
+      "eb:patternType": "control tactic",
+      "eb:exampleText": "Hi lovely, just wanted to remind you (again!) about the dishes \ud83d\ude18 It\u2019s really not that hard, is it?",
+      "eb:relationalImpact": "erodes trust",
+      "eb:cardGroup": "Empathy Collapse"
+    }
+  ]
+}

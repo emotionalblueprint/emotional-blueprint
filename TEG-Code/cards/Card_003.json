@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "eb": "https://emotionalblueprint.org/schema#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "eb:Card_003",
+      "@type": "eb:Card",
+      "rdfs:label": "Gaslighting",
+      "rdfs:comment": "A manipulation tactic that makes someone question their perception of reality, memory, or emotions, in order to maintain power or avoid accountability.",
+      "eb:colorZone": "red",
+      "eb:intent": "control",
+      "eb:patternType": "control tactic",
+      "eb:exampleText": "You\u2019re being way too sensitive. That\u2019s not how it happened at all.",
+      "eb:relationalImpact": "distorts reality",
+      "eb:cardGroup": "Empathy Collapse"
+    }
+  ]
+}
